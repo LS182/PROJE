@@ -1,0 +1,5 @@
+za/ac/cput/connection/DBConnection.class
+za/ac/cput/dao/TicketDAO.class
+za/ac/cput/starterserverproject/ParkingServer.class
+za/ac/cput/domain/ParkingTicket.class
+za/ac/cput/domain/Protocol.class
